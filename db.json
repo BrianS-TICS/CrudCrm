@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Honorio",
+      "email": "Brian@gmail.com",
+      "telefono": "66744222",
+      "empresa": "Linkedin",
+      "id": 1
+    },
+    {
+      "nombre": "Brian",
+      "email": "Briana23@gmail.com",
+      "telefono": "66744222",
+      "empresa": "Tesla",
+      "id": 2
+    }
+  ]
+}
